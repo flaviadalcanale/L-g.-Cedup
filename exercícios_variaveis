@@ -1,16 +1,16 @@
 String endereço;
 String telefone; 
-Int salario;
+Real salario;
 String cpf;
 Real preco;
-temperatura
+Int temperatura;
 String casado;
-nascimento
-vacinado
+Int nascimento;
+String vacinado;
 Int preco_gasolina;
-litros_gasolina
+Int litros_gasolina;
 Real preco_pao;
-Realtotal_compras
-idade
-data_contrato
+Real total_compras;
+Int idade;
+String data_contrato;
 String nivel_escolaridade;
