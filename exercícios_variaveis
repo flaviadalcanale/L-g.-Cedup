@@ -1,0 +1,16 @@
+String endereço;
+String telefone; 
+Int salario;
+String cpf;
+Real preco;
+temperatura
+String casado;
+nascimento
+vacinado
+Int preco_gasolina;
+litros_gasolina
+Real preco_pao;
+Realtotal_compras
+idade
+data_contrato
+String nivel_escolaridade;
